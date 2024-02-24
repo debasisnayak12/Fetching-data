@@ -28,12 +28,12 @@ const App = () => {
           <table>
             <thead>
               <tr>
-                <th>Id</th>
-                <th>Name</th>
                 <th>Image</th>
+                <th>Name</th>
                 <th>Symbol</th>
                 <th>Current Price</th>
                 <th>Total Volumn</th>
+                <th>Market cap</th>
               </tr>
             </thead>
             <tbody>
